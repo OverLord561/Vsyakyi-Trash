@@ -1,0 +1,7 @@
+c:\users\yurii.puk\source\repos\DesignPatterns\Command\bin\Debug\Command.exe.config
+c:\users\yurii.puk\source\repos\DesignPatterns\Command\bin\Debug\Command.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Command\bin\Debug\Command.pdb
+c:\users\yurii.puk\source\repos\DesignPatterns\Command\obj\Debug\Command.csprojAssemblyReference.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Command\obj\Debug\Command.csproj.CoreCompileInputs.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Command\obj\Debug\Command.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Command\obj\Debug\Command.pdb

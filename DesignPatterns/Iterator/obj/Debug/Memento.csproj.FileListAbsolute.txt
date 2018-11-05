@@ -1,0 +1,7 @@
+c:\users\yurii.puk\source\repos\DesignPatterns\Iterator\bin\Debug\Iterator.exe.config
+c:\users\yurii.puk\source\repos\DesignPatterns\Iterator\bin\Debug\Iterator.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Iterator\bin\Debug\Iterator.pdb
+c:\users\yurii.puk\source\repos\DesignPatterns\Iterator\obj\Debug\Memento.csprojAssemblyReference.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Iterator\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Iterator\obj\Debug\Iterator.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Iterator\obj\Debug\Iterator.pdb

@@ -1,0 +1,6 @@
+c:\users\yurii.puk\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe.config
+c:\users\yurii.puk\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Strategy\bin\Debug\Strategy.pdb
+c:\users\yurii.puk\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Strategy\obj\Debug\Strategy.pdb

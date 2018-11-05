@@ -1,0 +1,7 @@
+c:\users\yurii.puk\source\repos\DesignPatterns\State\obj\Debug\State.csprojAssemblyReference.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\State\obj\Debug\State.csproj.CoreCompileInputs.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\State\bin\Debug\State.exe.config
+c:\users\yurii.puk\source\repos\DesignPatterns\State\bin\Debug\State.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\State\bin\Debug\State.pdb
+c:\users\yurii.puk\source\repos\DesignPatterns\State\obj\Debug\State.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\State\obj\Debug\State.pdb

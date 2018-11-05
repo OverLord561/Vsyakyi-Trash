@@ -1,0 +1,7 @@
+c:\users\yurii.puk\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.exe.config
+c:\users\yurii.puk\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Visitor\bin\Debug\Visitor.pdb
+c:\users\yurii.puk\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Visitor\obj\Debug\Visitor.pdb

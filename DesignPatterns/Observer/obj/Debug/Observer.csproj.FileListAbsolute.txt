@@ -1,0 +1,6 @@
+c:\users\yurii.puk\source\repos\DesignPatterns\Observer\bin\Debug\Observer.exe.config
+c:\users\yurii.puk\source\repos\DesignPatterns\Observer\bin\Debug\Observer.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Observer\bin\Debug\Observer.pdb
+c:\users\yurii.puk\source\repos\DesignPatterns\Observer\obj\Debug\Observer.csproj.CoreCompileInputs.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Observer\obj\Debug\Observer.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Observer\obj\Debug\Observer.pdb

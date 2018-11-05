@@ -1,0 +1,7 @@
+c:\users\yurii.puk\source\repos\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe.config
+c:\users\yurii.puk\source\repos\DesignPatterns\Flyweight\bin\Debug\Flyweight.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Flyweight\bin\Debug\Flyweight.pdb
+c:\users\yurii.puk\source\repos\DesignPatterns\Flyweight\obj\Debug\Flyweight.csprojAssemblyReference.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Flyweight\obj\Debug\Flyweight.csproj.CoreCompileInputs.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Flyweight\obj\Debug\Flyweight.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Flyweight\obj\Debug\Flyweight.pdb

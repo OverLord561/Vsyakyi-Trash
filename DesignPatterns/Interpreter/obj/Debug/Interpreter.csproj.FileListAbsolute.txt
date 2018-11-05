@@ -1,0 +1,7 @@
+c:\users\yurii.puk\source\repos\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe.config
+c:\users\yurii.puk\source\repos\DesignPatterns\Interpreter\bin\Debug\Interpreter.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Interpreter\bin\Debug\Interpreter.pdb
+c:\users\yurii.puk\source\repos\DesignPatterns\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+c:\users\yurii.puk\source\repos\DesignPatterns\Interpreter\obj\Debug\Interpreter.exe
+c:\users\yurii.puk\source\repos\DesignPatterns\Interpreter\obj\Debug\Interpreter.pdb

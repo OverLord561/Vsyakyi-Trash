@@ -1,0 +1,7 @@
+C:\Users\yura\source\repos\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Users\yura\source\repos\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Users\yura\source\repos\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Users\yura\source\repos\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+C:\Users\yura\source\repos\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\yura\source\repos\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Users\yura\source\repos\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

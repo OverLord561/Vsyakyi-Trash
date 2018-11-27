@@ -1,0 +1,7 @@
+C:\Users\yura\source\repos\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Users\yura\source\repos\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Users\yura\source\repos\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Users\yura\source\repos\DesignPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\yura\source\repos\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Users\yura\source\repos\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Users\yura\source\repos\DesignPatterns\Builder\obj\Debug\Builder.pdb

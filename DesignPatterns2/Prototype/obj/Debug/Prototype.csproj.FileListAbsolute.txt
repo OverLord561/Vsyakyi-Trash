@@ -1,0 +1,7 @@
+C:\Users\yura\source\repos\DesignPatterns\Prototype\bin\Debug\Prototype.exe.config
+C:\Users\yura\source\repos\DesignPatterns\Prototype\bin\Debug\Prototype.exe
+C:\Users\yura\source\repos\DesignPatterns\Prototype\bin\Debug\Prototype.pdb
+C:\Users\yura\source\repos\DesignPatterns\Prototype\obj\Debug\Prototype.csprojResolveAssemblyReference.cache
+C:\Users\yura\source\repos\DesignPatterns\Prototype\obj\Debug\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\yura\source\repos\DesignPatterns\Prototype\obj\Debug\Prototype.exe
+C:\Users\yura\source\repos\DesignPatterns\Prototype\obj\Debug\Prototype.pdb

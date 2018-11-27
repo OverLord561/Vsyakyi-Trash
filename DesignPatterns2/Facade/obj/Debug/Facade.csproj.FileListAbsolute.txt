@@ -1,0 +1,6 @@
+C:\Users\yura\source\repos\DesignPatterns\Facade\bin\Debug\Facade.exe.config
+C:\Users\yura\source\repos\DesignPatterns\Facade\bin\Debug\Facade.exe
+C:\Users\yura\source\repos\DesignPatterns\Facade\bin\Debug\Facade.pdb
+C:\Users\yura\source\repos\DesignPatterns\Facade\obj\Debug\Facade.csproj.CoreCompileInputs.cache
+C:\Users\yura\source\repos\DesignPatterns\Facade\obj\Debug\Facade.exe
+C:\Users\yura\source\repos\DesignPatterns\Facade\obj\Debug\Facade.pdb

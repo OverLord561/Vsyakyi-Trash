@@ -1,0 +1,6 @@
+C:\Users\yura\source\repos\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\yura\source\repos\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Users\yura\source\repos\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Users\yura\source\repos\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\yura\source\repos\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Users\yura\source\repos\DesignPatterns\Singleton\obj\Debug\Singleton.pdb

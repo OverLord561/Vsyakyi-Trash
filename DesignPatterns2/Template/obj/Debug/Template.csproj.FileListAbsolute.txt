@@ -1,0 +1,6 @@
+C:\Users\yura\source\repos\DesignPatterns\Template\bin\Debug\Template.exe.config
+C:\Users\yura\source\repos\DesignPatterns\Template\bin\Debug\Template.exe
+C:\Users\yura\source\repos\DesignPatterns\Template\bin\Debug\Template.pdb
+C:\Users\yura\source\repos\DesignPatterns\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\yura\source\repos\DesignPatterns\Template\obj\Debug\Template.exe
+C:\Users\yura\source\repos\DesignPatterns\Template\obj\Debug\Template.pdb

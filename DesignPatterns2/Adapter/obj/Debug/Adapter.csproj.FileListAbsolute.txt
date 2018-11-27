@@ -1,0 +1,7 @@
+C:\Users\yura\source\repos\DesignPatterns\Adapter\bin\Debug\Adapter.exe.config
+C:\Users\yura\source\repos\DesignPatterns\Adapter\bin\Debug\Adapter.exe
+C:\Users\yura\source\repos\DesignPatterns\Adapter\bin\Debug\Adapter.pdb
+C:\Users\yura\source\repos\DesignPatterns\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\yura\source\repos\DesignPatterns\Adapter\obj\Debug\Adapter.exe
+C:\Users\yura\source\repos\DesignPatterns\Adapter\obj\Debug\Adapter.pdb
+C:\Users\yura\source\repos\DesignPatterns\Adapter\obj\Debug\Adapter.csprojResolveAssemblyReference.cache

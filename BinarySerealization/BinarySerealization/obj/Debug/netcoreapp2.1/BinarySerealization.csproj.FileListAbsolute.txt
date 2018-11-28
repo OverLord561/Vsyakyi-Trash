@@ -1,0 +1,11 @@
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\bin\Debug\netcoreapp2.1\BinarySerealization.deps.json
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\bin\Debug\netcoreapp2.1\BinarySerealization.runtimeconfig.json
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\bin\Debug\netcoreapp2.1\BinarySerealization.runtimeconfig.dev.json
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\bin\Debug\netcoreapp2.1\BinarySerealization.dll
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\obj\Debug\netcoreapp2.1\BinarySerealization.csprojAssemblyReference.cache
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\obj\Debug\netcoreapp2.1\BinarySerealization.csproj.CoreCompileInputs.cache
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\obj\Debug\netcoreapp2.1\BinarySerealization.AssemblyInfoInputs.cache
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\obj\Debug\netcoreapp2.1\BinarySerealization.AssemblyInfo.cs
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\bin\Debug\netcoreapp2.1\BinarySerealization.pdb
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\obj\Debug\netcoreapp2.1\BinarySerealization.dll
+C:\Users\yurii.puk\source\repos\BinarySerealization\BinarySerealization\obj\Debug\netcoreapp2.1\BinarySerealization.pdb

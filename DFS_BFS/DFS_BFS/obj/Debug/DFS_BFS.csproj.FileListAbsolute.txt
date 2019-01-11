@@ -1,0 +1,14 @@
+C:\Users\yurii.puk\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe.config
+C:\Users\yurii.puk\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe
+C:\Users\yurii.puk\source\repos\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.pdb
+C:\Users\yurii.puk\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csprojAssemblyReference.cache
+C:\Users\yurii.puk\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csproj.CoreCompileInputs.cache
+C:\Users\yurii.puk\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.exe
+C:\Users\yurii.puk\source\repos\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.pdb
+C:\projects\Education\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe.config
+C:\projects\Education\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.exe
+C:\projects\Education\DFS_BFS\DFS_BFS\bin\Debug\DFS_BFS.pdb
+C:\projects\Education\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csprojAssemblyReference.cache
+C:\projects\Education\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.csproj.CoreCompileInputs.cache
+C:\projects\Education\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.exe
+C:\projects\Education\DFS_BFS\DFS_BFS\obj\Debug\DFS_BFS.pdb

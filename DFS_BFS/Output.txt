@@ -1,0 +1,9 @@
+ BFS QUEUE-->
+A B E C D F G H
+
+ DFS Requrcive -->
+A B C D E F G H 59996
+
+
+ DFS STACK -->
+A B C D E F G H 59996

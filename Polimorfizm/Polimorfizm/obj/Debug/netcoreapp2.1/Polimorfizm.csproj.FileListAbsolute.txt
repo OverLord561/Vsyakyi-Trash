@@ -1,0 +1,11 @@
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\bin\Debug\netcoreapp2.1\Polimorfizm.deps.json
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\bin\Debug\netcoreapp2.1\Polimorfizm.runtimeconfig.json
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\bin\Debug\netcoreapp2.1\Polimorfizm.runtimeconfig.dev.json
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\bin\Debug\netcoreapp2.1\Polimorfizm.dll
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\bin\Debug\netcoreapp2.1\Polimorfizm.pdb
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\obj\Debug\netcoreapp2.1\Polimorfizm.csprojAssemblyReference.cache
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\obj\Debug\netcoreapp2.1\Polimorfizm.csproj.CoreCompileInputs.cache
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\obj\Debug\netcoreapp2.1\Polimorfizm.AssemblyInfoInputs.cache
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\obj\Debug\netcoreapp2.1\Polimorfizm.AssemblyInfo.cs
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\obj\Debug\netcoreapp2.1\Polimorfizm.dll
+C:\Users\yurii.puk\source\repos\Polimorfizm\Polimorfizm\obj\Debug\netcoreapp2.1\Polimorfizm.pdb
